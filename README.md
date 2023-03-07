@@ -5,6 +5,7 @@
 -->
 
 - 🔭 I’m currently working on Amppper (a toolset for audio,video, images and pdf's)
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently working with Python
+- 📖 Read my articles at : [HackerNoon](https://hackernoon.com/u/h3avren) 
 - 📫 How to reach me: ajaysinghrana494@gmail.com
 
